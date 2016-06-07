@@ -15,6 +15,12 @@ public class EDD4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD
        System.out.println("IDE netbeans");
+        System.out.println("IDE netbeans2");
+=======
+       System.out.println("IDE Eclipse");
+       System.out.println("Que te den");
+>>>>>>> origin/master
     }
     
