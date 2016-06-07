@@ -18,4 +18,3 @@ public class EDD4 {
        System.out.println("IDE netbeans");
     }
     
-}
